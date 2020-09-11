@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 博客
+subtitle: 希望，只有和勤奋作伴，才能如虎添翼。 ——徐志摩
 ---
 
 <div>
