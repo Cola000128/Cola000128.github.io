@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 안녕.
+title: 湖人总冠军
 subtitle: My name is Cola
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/u=1513932058,1589839196&fm=26&gp=0.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>一个简介有意思关于网站开发的博客</p>
