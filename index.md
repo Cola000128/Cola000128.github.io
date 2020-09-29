@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/u=1513932058,1589839196&fm=26&gp=0.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/kobe.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>Mamba Forever</p>
